@@ -15,7 +15,7 @@ public class ControleDeFluxo {
 	        switchFerias();
 	    }
 
-	    private static void ifFlecha() {
+	    private static void ifFlecha() { /*Não usar if else nesse caso*/
 
 	        int mes = 9;
 	        if (mes == 1) {
