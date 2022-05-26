@@ -75,10 +75,10 @@ public class Lists {
         }
         System.out.println(notas);
         
-       System.out.println("Apague toda a lista");
+        /*System.out.println("Apague toda a lista");
         notas.clear();
         System.out.println(notas);
-        
+        */
         
         System.out.println("Confira se a lista está vazia: " + notas.isEmpty());
         
